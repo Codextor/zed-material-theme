@@ -1,0 +1,7 @@
+id = "material-theme"
+name = "Material Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Codextor"]
+description = "Material Theme for Zed"
+repository = "https://github.com/codextor/zed-material-theme"
