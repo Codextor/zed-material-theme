@@ -10,6 +10,57 @@ Get the theme from the Zed Extensions Gallery. Instructions below.
 
 You can help by reporting issues [`here`](https://github.com/codextor/zed-material-theme/issues)
 
+## Previews
+
+<details>
+<summary>Material Theme</summary>
+<img src="./assets/previews/material-theme.png"/>
+</details>
+<details>
+<summary>Material Theme High Contrast</summary>
+<img src="./assets/previews/material-theme-high-contrast.png"/>
+</details>
+<details>
+<summary>Material Theme Darker</summary>
+<img src="./assets/previews/material-theme-darker.png"/>
+</details>
+<details>
+<summary>Material Theme Darker High Contrast</summary>
+<img src="./assets/previews/material-theme-darker-high-contrast.png"/>
+</details>
+<details>
+<summary>Material Theme Deepforest</summary>
+<img src="./assets/previews/material-theme-deepforest.png"/>
+</details>
+<details>
+<summary>Material Theme Deepforest High Contrast</summary>
+<img src="./assets/previews/material-theme-deepforest-high-contrast.png"/>
+</details>
+<details>
+<summary>Material Theme Lighter</summary>
+<img src="./assets/previews/material-theme-lighter.png"/>
+</details>
+<details>
+<summary>Material Theme Lighter High Contrast</summary>
+<img src="./assets/previews/material-theme-lighter-high-contrast.png"/>
+</details>
+<details>
+<summary>Material Theme Ocean</summary>
+<img src="./assets/previews/material-theme-ocean.png"/>
+</details>
+<details>
+<summary>Material Theme Ocean High Contrast</summary>
+<img src="./assets/previews/material-theme-ocean-high-contrast.png"/>
+</details>
+<details>
+<summary>Material Theme Palenight</summary>
+<img src="./assets/previews/material-theme-palenight.png"/>
+</details>
+<details>
+<summary>Material Theme Palenight High Contrast</summary>
+<img src="./assets/previews/material-theme-palenight-high-contrast.png"/>
+</details>
+
 ## Install via Zed Extensions
 
 1. Open Zed.
