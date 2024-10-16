@@ -1,7 +1,11 @@
 <h1 align="center">
   <img src="https://i.imgur.com/4flFIjK.png" width="160" alt="Logo"/><br/>
-	Material Theme for <a href="https://zed.dev/">Zed</a>
+  Material Theme for <a href="https://zed.dev/">Zed</a>
 </h1>
+
+<p align="center">
+  <img src="./assets/previews/material-theme-combined.png"/>
+</p>
 
 The most epic theme meets Zed.
 Inspired by Mattia Astorino's Material Theme for [Visual Studio Code](https://github.com/material-theme/vsc-material-theme).
